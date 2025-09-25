@@ -66,7 +66,7 @@ export default function SimplifiedAIChat() {
             <span className="font-bold text-white">AI</span>
           </div>
           <div className="flex-grow">
-            <h3 className="font-bold text-xl text-white">InsiderX AI Assistant</h3>
+            <h3 className="font-bold text-xl text-white">InsideX AI Assistant</h3>
             <p className="text-sm text-gray-400 mt-1">
               {isTyping ? 'Analyzing market data...' : 'Ask me about stocks, insider trades, or market trends'}
             </p>

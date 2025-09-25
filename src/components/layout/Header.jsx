@@ -6,7 +6,7 @@ export default function Header() {
         {/* Logo */}
         <a
           href="/"
-          className="text-xl font-bold text-white hover:text-indigo-400 transition"
+          className="text-xl font-bold text-white hover:text-blue-400 transition"
         >
           InsideX
         </a>
