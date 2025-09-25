@@ -2,10 +2,11 @@
 export default {
   content: [
     "./index.html",
-    "./src/**/*.{js,jsx,ts,tsx}",
+    "./src/**/*.{js,jsx}",
+    "node_modules/preline/preline.js", // ✅ add this
   ],
   theme: {
     extend: {},
   },
-  plugins: [],
-}
+  plugins: [import("preline/plugin")], // ✅ Preline plugin
+};

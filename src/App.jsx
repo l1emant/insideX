@@ -1,11 +1,5 @@
-function App() {
-  return (
-    <div>
-      <h1 className="text-3xl font-bold text-black-700">
-        Hello, world!
-      </h1>
-    </div>
-  );
-}
+import Landing from "./pages/Landing";
 
-export default App;
+export default function App() {
+  return <Landing />;
+}
