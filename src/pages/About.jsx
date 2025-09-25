@@ -32,7 +32,7 @@ export default function About() {
           <div className="bg-neutral-800/50 backdrop-blur-md rounded-xl p-8 border border-neutral-700 mb-12">
             <h2 className="text-2xl font-bold mb-4 text-blue-400">What is InsideX?</h2>
             <p className="text-gray-300 leading-relaxed">
-              InsideX is a real-time market intelligence platform that tracks insider trading activities 
+              InsideX is a real-time market intelligence platform that tracks unusual trading activities 
               and market rumors to help investors make informed decisions. Our AI-powered system monitors 
               unusual market activity and provides actionable insights to stay ahead of trends.
             </p>
