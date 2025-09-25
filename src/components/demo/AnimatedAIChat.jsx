@@ -352,7 +352,7 @@ export default function AnimatedAIChat() {
                       }}
                     />
                     <div className="flex flex-col">
-                      <span className="text-sm font-medium">InsiderX AI</span>
+                      <span className="text-sm font-medium">InsideX AI</span>
                       <span className="text-muted-foreground text-xs">
                         {isTyping ? 'Thinking...' : 'Ask me anything'}
                       </span>

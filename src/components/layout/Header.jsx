@@ -8,7 +8,7 @@ export default function Header() {
           href="/"
           className="text-xl font-bold text-white hover:text-indigo-400 transition"
         >
-          InsiderX
+          InsideX
         </a>
 
         {/* Nav + Button */}

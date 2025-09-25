@@ -9,7 +9,7 @@ export default function Demo() {
       <Header />
       <main className="flex-grow container mx-auto px-4 py-8">
         <div className="max-w-6xl mx-auto">
-          <h1 className="text-3xl font-bold text-center mb-8">InsiderX Demo Prototype</h1>
+          <h1 className="text-3xl font-bold text-center mb-8">InsideX Demo Prototype</h1>
           {/* Chat Interface */}
           <div className="mb-12">
             <SimplifiedAIChat />
